@@ -1,5 +1,5 @@
 # Random scripts
-Some random scripts I use on my computer to make life easier. Arter all, automating repetitive tasks is one of the most useful abilities of computers.
+Some random scripts I use on my computer to make life easier. Automating repetitive tasks is one of the most useful abilities of computers.
 
 Summary of each:
 
